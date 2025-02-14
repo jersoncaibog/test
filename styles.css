@@ -28,6 +28,7 @@ body {
 .love-gif {
     width: 280px;
     margin-bottom: 2rem;
+    z-index: 600;
 }
 
 h1 {
